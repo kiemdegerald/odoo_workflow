@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'BADF Workflow',
+    'name': 'Workflow',
     'version': '17.0.1.0.0',
     'category': 'Productivity/Workflow',
     'summary': 'Système de validation hiérarchique des demandes de crédit pour BADF',
