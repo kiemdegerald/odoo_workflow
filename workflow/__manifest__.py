@@ -3,13 +3,12 @@
     'name': 'Workflow',
     'version': '17.0.1.0.0',
     'category': 'Productivity/Workflow',
-    'summary': 'Système de validation hiérarchique des demandes de crédit pour BADF',
+    'summary': 'Système de validation hiérarchique des demandes de crédit',
     'description': """
-        BADF - Workflow de Validation de Crédit
-        =========================================
+        Workflow de Validation de Crédit
+        =================================
         
-        Module de gestion des workflows de validation multi-niveaux pour la 
-        Banque Agricole  du Faso (BADF).
+        Module de gestion des workflows de validation multi-niveaux.
         
         Fonctionnalités principales :
         - Circuits de validation automatiques (A, B, C) selon le montant
@@ -24,8 +23,8 @@
         - Circuit B (5M-50M FCFA) : 3 niveaux  
         - Circuit C (≥ 50M FCFA) : 4 niveaux
     """,
-    'author': 'BADF - Direction des Systèmes d\'Information',
-    'website': 'https://www.badf.bf',
+    'author': 'Direction des Systèmes d\'Information',
+    'website': '',
     'license': 'OPL-1',
     'depends': [
         'base',
